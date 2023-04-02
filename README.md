@@ -21,6 +21,10 @@ The first step is to create our contract and we do this by:
  + Install Hardhat
   
   ![Ethereum network](https://user-images.githubusercontent.com/114112536/229345767-4ce524cc-cb43-49b2-9743-8f85bc2c1a04.png)
+  
+  2. ### Writing Smart Contract in Solidity
+
+![Solidity code](https://user-images.githubusercontent.com/114112536/229348935-2db8e77b-2208-4fd0-a918-dbf137df136c.png)
 
 
 
