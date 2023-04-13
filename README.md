@@ -26,5 +26,14 @@ The first step is to create our contract and we do this by:
 
 ![Solidity code](https://user-images.githubusercontent.com/114112536/229348935-2db8e77b-2208-4fd0-a918-dbf137df136c.png)
 
+3. ### Compile Our Contract Locally and Run It
+4. ### Store Data On Smart Contract 
+5. ### Deploy Locally To Build Our Website 
+
+## Connect To Wallet 
+
+1. ### Set Up a Basic React App and Meta Mask
+
+
 
 
