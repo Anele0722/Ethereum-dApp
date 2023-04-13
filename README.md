@@ -30,6 +30,8 @@ The first step is to create our contract and we do this by:
 4. ### Store Data On Smart Contract 
 5. ### Deploy Locally To Build Our Website 
 
+Now that we have completed our first step, next we have to conncet to our wallet so that we start building our website 
+
 ## Connect To Wallet 
 
 1. ### Set Up a Basic React App and Meta Mask
